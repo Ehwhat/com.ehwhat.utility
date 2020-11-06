@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿#if UNITY_EDITOR
+using UnityEngine;
 using UnityEditor;
 
 namespace Utility.Editor {
@@ -26,3 +27,4 @@ namespace Utility.Editor {
 
     }
 }
+#endif
