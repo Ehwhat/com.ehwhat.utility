@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEditor;
 
-namespace Utility.Editor {
+namespace Ehwhat.Utility.Editor {
 
     [CustomPropertyDrawer(typeof(SphericalPoint))]
     public class SphericalPointPropertyDrawer : PropertyDrawer

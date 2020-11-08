@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Utility
+namespace Ehwhat.Utility
 {
     /// <summary>
     /// A struct used to describe spherical cooridinates.
